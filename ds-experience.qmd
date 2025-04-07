@@ -1,0 +1,28 @@
+---
+title: "Data Science Experience"
+subtitle: "<Name of the Experience>"
+author: "Add your name here"
+categories: "Lab"
+
+---
+
+
+-   [Part 1: Experience data science outside of the classroom](#part-1-experience-data-science-outside-of-the-classroom)
+
+-   [Part 2: Summarize your experience](#part-2-summarize-your-experience)
+
+-   [Submission](#submission)
+
+
+## Part 1: Experience data science outside of the classroom {#part-1-experience-data-science-outside-of-the-classroom}
+
+Give the information for the experience. 
+
+## Part 2: Summarize your experience {#part-2-summarize-your-experience}
+
+Summary: 
+
+
+## Submission {#submission}
+
+Submit the reflection as a PDF under the **Data Science Experience** assignment on GitHub by **Friday, December 06 at 11:59pm.** It must be submitted by the deadline on GitHub to be considered for grading.

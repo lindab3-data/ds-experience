@@ -21,7 +21,7 @@ Each experience has two parts:
 
 **You must complete both parts to receive credit.**
 
-## Part 1: Experience data science outside of the classroom {#part-1-experience-data-science-outside-of-the-classroom}
+## Part 1: Experience data science outside of the classroom
 
 Complete an activity in one of the categories below.
 Under each category are suggested activities.
@@ -87,7 +87,7 @@ Many of these books are available through University of Arizona library.
 
 -   [List of books about data science ethics](https://teachdatascience.com/bookclub/)
 
-## Part 2: Summarize your experience {#part-2-summarize-your-experience}
+## Part 2: Summarize your experience
 
 Make one slide summarizing your experience.
 Submit the slide as a PDF on GitHub.
@@ -107,6 +107,6 @@ Include the following on your slide:
 Your slide does not have to follow this exact format; it just needs to include the information mentioned above and be easily readable (i.e. use a reasonable font size!).
 Creativity is encouraged!
 
-## Submission {#submission}
+## Submission
 
 Submit the reflection as a PDF/HTML under the **Data Science Experience** assignment on GitHub by **Friday, April 25 at 11:59pm AZ time.** It must be submitted by the deadline on GitHub to be considered for grading.
